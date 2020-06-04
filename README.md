@@ -97,7 +97,7 @@ year = {2019}
 
 ## Contributors
 * [Vinod K. Kurmi][1] (vinodkk@iitk.ac.in)
-* [Shanu Kumarj][2] (sshanu@iitk.ac.in)
+* [Shanu Kumar][2] (sshanu@iitk.ac.in)
 
 
 
